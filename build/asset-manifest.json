@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/hello_yama/static/js/main.9d29c6cb.js",
+    "index.html": "/hello_yama/index.html",
+    "main.9d29c6cb.js.map": "/hello_yama/static/js/main.9d29c6cb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9d29c6cb.js"
+  ]
+}
