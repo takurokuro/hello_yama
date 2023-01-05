@@ -1,11 +1,14 @@
 {
   "files": {
-    "main.js": "/hello_yama/static/js/main.b8e31d80.js",
+    "main.css": "/hello_yama/static/css/main.e0d44951.css",
+    "main.js": "/hello_yama/static/js/main.e9dbfc4e.js",
     "static/media/yamashita_web_1224_cc-37.jpg": "/hello_yama/static/media/yamashita_web_1224_cc-37.835568cf0b6069d6154a.jpg",
     "index.html": "/hello_yama/index.html",
-    "main.b8e31d80.js.map": "/hello_yama/static/js/main.b8e31d80.js.map"
+    "main.e0d44951.css.map": "/hello_yama/static/css/main.e0d44951.css.map",
+    "main.e9dbfc4e.js.map": "/hello_yama/static/js/main.e9dbfc4e.js.map"
   },
   "entrypoints": [
-    "static/js/main.b8e31d80.js"
+    "static/css/main.e0d44951.css",
+    "static/js/main.e9dbfc4e.js"
   ]
 }
