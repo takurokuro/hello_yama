@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/hello_yama/static/css/main.e0d44951.css",
-    "main.js": "/hello_yama/static/js/main.e9dbfc4e.js",
+    "main.css": "/hello_yama/static/css/main.b33900ec.css",
+    "main.js": "/hello_yama/static/js/main.12d264f0.js",
+    "static/media/test111.jpg": "/hello_yama/static/media/test111.6fb95946ae98e4746920.jpg",
+    "static/media/test222.jpg": "/hello_yama/static/media/test222.f6d55399a5056a8393bb.jpg",
     "static/media/yamashita_web_1224_cc-37.jpg": "/hello_yama/static/media/yamashita_web_1224_cc-37.835568cf0b6069d6154a.jpg",
     "index.html": "/hello_yama/index.html",
-    "main.e0d44951.css.map": "/hello_yama/static/css/main.e0d44951.css.map",
-    "main.e9dbfc4e.js.map": "/hello_yama/static/js/main.e9dbfc4e.js.map"
+    "main.b33900ec.css.map": "/hello_yama/static/css/main.b33900ec.css.map",
+    "main.12d264f0.js.map": "/hello_yama/static/js/main.12d264f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0d44951.css",
-    "static/js/main.e9dbfc4e.js"
+    "static/css/main.b33900ec.css",
+    "static/js/main.12d264f0.js"
   ]
 }
